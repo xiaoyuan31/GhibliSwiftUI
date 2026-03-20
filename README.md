@@ -20,10 +20,10 @@ A beautiful **SwiftUI app** with smooth animations, movie details, and easy brow
 ## 📸 Demo / Preview
 
 <!-- Movie list GIF -->
-<img src="list.jpg" alt="Movie List Demo" width="400" height="300">
+<img src="list.jpg" alt="Movie List Demo" width="400" height="auto">
 
 <!-- Movie detail GIF -->
-<img src="detail.jpg" alt="Movie Detail Demo" width="400" height="300">
+<img src="detail.jpg" alt="Movie Detail Demo" width="400" height="auto">
 
 
 ---
