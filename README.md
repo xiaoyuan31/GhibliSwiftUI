@@ -1,6 +1,6 @@
 # 🌟 GhibliSwiftUI
 
-![Ghibli App Banner](link-to-hero-gif-or-screenshot)
+![Ghibli App Banner](detail.png)
 
 **Discover Studio Ghibli movies on iOS!**  
 A beautiful **SwiftUI app** with smooth animations, movie details, and easy browsing. Perfect for Ghibli fans and SwiftUI enthusiasts alike. 🎬✨
@@ -19,8 +19,8 @@ A beautiful **SwiftUI app** with smooth animations, movie details, and easy brow
 
 ## 📸 Demo / Preview
 
-![Movie List GIF](link-to-list-gif)  
-![Movie Detail GIF](link-to-detail-gif)
+![Movie List GIF](list.jpg)  
+![Movie Detail GIF](detail.jpg)
 
 ---
 
