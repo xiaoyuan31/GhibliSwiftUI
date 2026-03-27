@@ -17,13 +17,16 @@ A beautiful **SwiftUI app** with smooth animations, movie details, and easy brow
 
 ## 📸 Demo / Preview
 
-<!-- Movie list GIF -->
-<img src="list.jpg" alt="Movie List Demo" width="400" height="auto">
-
-<!-- Movie detail GIF -->
-<img src="detail.jpg" alt="Movie Detail Demo" width="400" height="auto">
-
-
+<table>
+  <tr>
+    <td>
+      <img src="list.jpg" alt="Movie List Demo" width="300" height="auto">
+    </td>
+    <td>
+      <img src="detail.jpg" alt="Movie Detail Demo" width="300" height="auto">
+    </td>
+  </tr>
+</table>
 ---
 
 ## ⚡ Quick Start
